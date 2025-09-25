@@ -59,7 +59,7 @@ It allows users to browse products, view details, add items to the cart, and pro
 
 ## 📂 Project Structure
 
-
+````
 ecommerce-app/
  ┣ src/
  ┃ ┣ components/
@@ -77,7 +77,7 @@ ecommerce-app/
  ┃ ┣ App.jsx
  ┃ ┣ main.jsx
  ┃ ┗ index.css
-
+```
 
 
 
